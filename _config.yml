@@ -14,9 +14,9 @@ author: malak
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  About Me: "README"
   Resume: "aboutme"
-  Resources:
-    - Programming: "https://ajmalagm.github.io/README.md"
+#    - Programming: "https://ajmalagm.github.io/README"
 
 # --- Logo --- #
 
