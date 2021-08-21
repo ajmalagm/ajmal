@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ajmalagm
-- 👀 I’m interested in everything
+- 👋 Hi, I’m ajmal
+- 👀 I’m interested in everything !nothing
 - 🌱 I’m an active learner
 - 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me India9eight9five9six5two5nine
