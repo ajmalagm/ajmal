@@ -6,19 +6,17 @@
 # --- Required options --- #
 
 # Name of website
-title: My Home
+title: My Personal Blog
 
 # Your name to show in the footer
-author: ajmal
+author: malak
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Resume: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://ajmalagm.github.io"
-    - Learn markdown: "https://ajmalagm.github.io"
-  Author's home: "https://ajmalagm.github.io"
+    - Programming: "https://ajmalagm.github.io/README.md"
 
 # --- Logo --- #
 
