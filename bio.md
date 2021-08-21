@@ -1,3 +1,8 @@
+---
+layout: page
+title: Bio
+subtitle: Why you'd want to go on a date with me
+---
 - 👋 Hi, I’m ajmal
 - 👀 I’m interested in everything !nothing
 - 🌱 I’m an active learner
